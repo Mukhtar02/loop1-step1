@@ -1,0 +1,33 @@
+body{
+    background-color:#799bce;
+    padding-top: 5rem;
+}
+main {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    align-items: start;
+    background-color: white;
+    padding: 2rem;
+    
+}
+.mobile h3{
+    color: #6779ba;
+}
+.desktop h3{
+    color:#6779ba;
+}
+.monitor h3{
+    color:#6779ba;
+}
+p{
+    color: #cac9c9;
+}
+ sub{
+color: #6779ba;
+font-size: 10px;
+ }   
+ .sup{
+   color:#6779ba
+ }
+    
